@@ -102,7 +102,7 @@ All visuals are integrated into:
 ## 🔗 Live Links
 
 📊 **Tableau Story Dashboard:**
-[https://public.tableau.com/app/profile/abdul.sami6009/viz/HousingStoryDashboard/Story1](https://public.tableau.com/app/profile/abdul.sami6009/viz/HousingStoryDashboard/Story1)
+[https://public.tableau.com/app/profile/gowthami/viz/HousingStoryDashboard/Story1](https://public.tableau.com/app/profile/gowthmi/viz/HousingStoryDashboard/Story1)
 
 📹 **Video Demonstration:**
 [https://drive.google.com/file/d/1OQq6-eQJBzLQI54IyRY7FUdlAgrOzwmM/view](https://drive.google.com/file/d/1OQq6-eQJBzLQI54IyRY7FUdlAgrOzwmM/view)
@@ -146,13 +146,11 @@ All visuals are integrated into:
 ## 👥 Project Team
 
 **Internship Platform:** SmartInternz
-**Team ID:** LTVIP2026TMIDS38740
-**Team Size:** 4
+**Team ID:** LTVIP2026TMIDS38837
+**Team Size:** 2
 
-* Team Leader – Nethibottu Abdul Sami
-* Shaik Vali Basha
-* Devagudi Rama Hemanth
-* Shaik Mohammad Kaif
+* Team Leader – Mancha Naga Gowthami
+* Valle Parimala
 
 📅 Completed: February 2026
 
